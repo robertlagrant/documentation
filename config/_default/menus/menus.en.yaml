@@ -2263,6 +2263,10 @@ api_v1:
     url: /api/v1/metrics/
     identifier: Metrics
     generated: true
+  - name: Create a Distribution Metric
+    parent: Metrics
+    url: '#create-a-distribution-metric'
+    generated: true
   - name: Get active metrics list
     parent: Metrics
     url: '#get-active-metrics-list'
